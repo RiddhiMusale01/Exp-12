@@ -9,6 +9,7 @@ In C++, constructors and destructors are special member functions that handle ob
 Constructors are special member functions that are called automatically when a class object is created. It is used to set up the object's data members. Constructors share the same name as the class and have no return type.
 
 Types of Constructors:
+
 Default Constructor: A constructor without any parameters. It sets up the object with default values.
 
 Parameterized constructor: A  constructor that accepts parameters and initializes the object with specific values specified at the time of creation.
@@ -200,7 +201,7 @@ O/P:
 
 ![image](https://github.com/user-attachments/assets/8de90759-1062-4dc5-ba30-0a7896417a14)
 
-6. Deconstructor
+6. Destructor
 ```
 #include<iostream>
 using namespace std;
