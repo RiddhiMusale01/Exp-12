@@ -229,7 +229,8 @@ return 0;
 ```
 O/P:
 
-![image](https://github.com/user-attachments/assets/b581a9e1-7ad9-42a1-a629-f9b08b0e06b1)
+![image](https://github.com/user-attachments/assets/25593cee-0f77-42c4-9649-d9c23fdc7d14)
+
 
 
 # Conclusion 
